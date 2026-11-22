@@ -2,13 +2,11 @@
 
 <img src="assets/studio-banner.svg" alt="Ibodullo Safarov — software developer building thoughtful tools" width="100%" />
 
-
-
 **Building thoughtful software for macOS and the web.**
 
 *Developer · Student · Curious about how reliable software gets built*
 
-[GitHub](https://github.com/ibodullosafarovv) · [Control](https://github.com/ibodullosafarovv/Control)
+[Explore Control](https://github.com/ibodullosafarovv/Control) · [Repositories](https://github.com/ibodullosafarovv?tab=repositories) · [Activity](https://github.com/ibodullosafarovv?tab=overview&from=2026-11-01&to=2026-11-30)
 
 </div>
 
@@ -25,7 +23,7 @@ Currently exploring **SwiftUI**, **TypeScript**, and the engineering decisions b
 <table>
 <tr><td width="50%" valign="top">
 
-**[Control](https://github.com/ibodullosafarovv/Control)**
+**[Control](https://github.com/ibodullosafarovv/Control)** · [Project overview](https://github.com/ibodullosafarovv/Control#features)
 
 A macOS focus and planning app built around deep work, scheduling, and fewer distractions.
 
@@ -59,9 +57,19 @@ Investigating what makes complex software difficult to build and keep reliable.
 </td></tr>
 </table>
 
+### Currently building
+
+- **Control:** Refining the focus experience, planning workflows, and platform support.
+- **Spazio:** Exploring a native, connected workspace for macOS. Source is private while in development.
+- **Research:** Studying reliability and complexity in software engineering.
+
 ### Tools I work with
 
 `Swift` · `SwiftUI` · `TypeScript` · `React` · `Electron` · `Git` · `Python`
+
+### GitHub activity
+
+[View contributions and recent activity](https://github.com/ibodullosafarovv?tab=overview) · [Browse public repositories](https://github.com/ibodullosafarovv?tab=repositories)
 
 ### Philosophy
 
