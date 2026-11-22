@@ -1,6 +1,8 @@
 <div align="center">
 
-# Ibodullo Safarov
+<img src="assets/studio-banner.svg" alt="Ibodullo Safarov — software developer building thoughtful tools" width="100%" />
+
+
 
 **Building thoughtful software for macOS and the web.**
 
