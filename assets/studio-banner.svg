@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Ibodullo Safarov — Software developer</title>
+<desc id="desc">Warm ivory studio-style editorial banner with terracotta accents, typography, and subtle architectural grid.</desc>
+<rect width="1200" height="340" fill="#F3F0E9"/>
+<g stroke="#DED9D0" stroke-width="1" opacity=".8">
+<path d="M64 0V340M300 0V340M600 0V340M900 0V340M1136 0V340"/>
+<path d="M0 58H1200M0 282H1200"/>
+</g>
+<rect x="64" y="58" width="6" height="224" fill="#B65D46"/>
+<g font-family="Georgia, 'Times New Roman', serif" fill="#252525">
+<text x="100" y="175" font-size="79" letter-spacing="-3">Ibodullo Safarov.</text>
+</g>
+<text x="103" y="217" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="2.3" fill="#665E56">SOFTWARE DEVELOPER  /  BUILDING THOUGHTFUL TOOLS</text>
+<g font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2" fill="#B65D46">
+<text x="100" y="93">INDEPENDENT WORK / 2026</text>
+<text x="100" y="310">MACOS  ·  WEB  ·  SOFTWARE ENGINEERING</text>
+</g>
+<g transform="translate(1052 95)" stroke="#B65D46" fill="none" stroke-width="2">
+<circle cx="42" cy="42" r="38"/>
+<path d="M42 4V80M4 42H80M15 15L69 69M69 15L15 69"/>
+<circle cx="42" cy="42" r="9" fill="#B65D46"/>
+</g>
+<text x="1094" y="310" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.5" fill="#746C63">IS / 01</text>
+</svg>
