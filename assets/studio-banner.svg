@@ -1,24 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-<title id="title">Ibodullo Safarov — Software developer</title>
-<desc id="desc">Warm ivory studio-style editorial banner with terracotta accents, typography, and subtle architectural grid.</desc>
-<rect width="1200" height="340" fill="#F3F0E9"/>
-<g stroke="#DED9D0" stroke-width="1" opacity=".8">
-<path d="M64 0V340M300 0V340M600 0V340M900 0V340M1136 0V340"/>
-<path d="M0 58H1200M0 282H1200"/>
-</g>
-<rect x="64" y="58" width="6" height="224" fill="#B65D46"/>
-<g font-family="Georgia, 'Times New Roman', serif" fill="#252525">
-<text x="100" y="175" font-size="79" letter-spacing="-3">Ibodullo Safarov.</text>
-</g>
-<text x="103" y="217" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="2.3" fill="#665E56">SOFTWARE DEVELOPER  /  BUILDING THOUGHTFUL TOOLS</text>
-<g font-family="Arial, Helvetica, sans-serif" font-size="14" letter-spacing="2" fill="#B65D46">
-<text x="100" y="93">INDEPENDENT WORK / 2026</text>
-<text x="100" y="310">MACOS  ·  WEB  ·  SOFTWARE ENGINEERING</text>
-</g>
-<g transform="translate(1052 95)" stroke="#B65D46" fill="none" stroke-width="2">
-<circle cx="42" cy="42" r="38"/>
-<path d="M42 4V80M4 42H80M15 15L69 69M69 15L15 69"/>
-<circle cx="42" cy="42" r="9" fill="#B65D46"/>
-</g>
-<text x="1094" y="310" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.5" fill="#746C63">IS / 01</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Ibodullo Safarov — Software, thoughtfully built.</title>
+<desc id="desc">Minimal dark developer studio banner with refined typography, subtle blue accent and fine grid.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111318"/><stop offset="1" stop-color="#1B2029"/></linearGradient><radialGradient id="glow"><stop stop-color="#4B77C7" stop-opacity=".19"/><stop offset="1" stop-color="#4B77C7" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="360" fill="url(#bg)"/><circle cx="1040" cy="70" r="310" fill="url(#glow)"/>
+<g stroke="#FFFFFF" stroke-opacity=".055"><path d="M60 0V360M300 0V360M600 0V360M900 0V360M1140 0V360M0 58H1200M0 300H1200"/></g>
+<circle cx="76" cy="82" r="4" fill="#87AFFF"/>
+<text x="94" y="87" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="15" letter-spacing="2" fill="#A8AFBA">IBODULLO SAFAROV <tspan fill="#606976">/</tspan> INDEPENDENT DEVELOPER</text>
+<text x="72" y="179" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="62" font-weight="600" letter-spacing="-2.6" fill="#F5F5F7">Software, thoughtfully built.</text>
+<text x="76" y="224" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="20" fill="#A8AFBA">Focused experiences for macOS and the web.</text>
+<text x="76" y="329" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="13" letter-spacing="2" fill="#929AA7">SWIFTUI  /  TYPESCRIPT  /  REACT</text>
+<g transform="translate(1082 302)" stroke="#8DA8D6" stroke-width="1.8" fill="none"><path d="M0 22L22 0M8 0H22V14"/></g>
 </svg>
