@@ -25,7 +25,7 @@
 
 ### Other explorations
 
-[Atlas](https://github.com/ibodullosafarovv/atlas) &nbsp;·&nbsp; [Personal API](https://github.com/ibodullosafarovv/self-personal-api) &nbsp;·&nbsp; Software engineering research
+Atlas *(private)* &nbsp;·&nbsp; Personal API *(private)* &nbsp;·&nbsp; Software engineering research
 
 ### About
 
