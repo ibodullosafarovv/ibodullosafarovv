@@ -1,44 +1,38 @@
 <div align="center">
 
-<img src="assets/studio-banner.svg" alt="Ibodullo Safarov — Software, thoughtfully built." width="100%" />
+<a href="#selected-work"><img src="assets/studio-banner.svg" alt="Ibodullo Safarov. Software, thoughtfully built. Explore projects below." width="100%" /></a>
 
 <br />
 
-**Independent developer · macOS & web**
+<sub>INDEPENDENT DEVELOPER &nbsp; / &nbsp; MACOS & WEB</sub>
 
-I build focused, intuitive software with an emphasis on thoughtful interfaces and reliable engineering.
+<br /><br />
 
-[Projects](#selected-work) &nbsp;·&nbsp; [GitHub activity](https://github.com/ibodullosafarovv?tab=overview) &nbsp;·&nbsp; [Repositories](https://github.com/ibodullosafarovv?tab=repositories)
+[**Explore work**](#selected-work) &nbsp;&nbsp; [**Repositories**](https://github.com/ibodullosafarovv?tab=repositories) &nbsp;&nbsp; [**Activity**](https://github.com/ibodullosafarovv?tab=overview)
 
 </div>
 
 <br />
 
-### Selected work
+## Selected work
 
-| Project | What it does | Stack |
-| :--- | :--- | :--- |
-| **[Control](https://github.com/ibodullosafarovv/Control)** | Focus sessions, planning, and distraction management for macOS. *In development.* | Electron · React · TypeScript |
-| **Spazio** | A native macOS workspace connecting projects, tasks, notes, and resources. *In development; source private.* | Swift · SwiftUI |
-| **[Atlas](https://github.com/ibodullosafarovv/atlas)** | Experiments in visual organization and connected ideas. | Web |
-| **[Personal API](https://github.com/ibodullosafarovv/self-personal-api)** | Exploring a personal interface for sharing selected information and availability. | Web |
+<p align="center">
+  <a href="https://github.com/ibodullosafarovv/Control"><img src="assets/project-control.svg" alt="Control. MacOS productivity app. In development." width="49%" /></a>
+  <img src="assets/project-spazio.svg" alt="Spazio. Native macOS workspace. Source private." width="49%" />
+</p>
+
+**[Control](https://github.com/ibodullosafarovv/Control)** is a macOS focus and planning app. **Spazio** is a native SwiftUI workspace connecting projects, notes, tasks, and resources. Both are in development; Spazio's source remains private.
+
+### Other explorations
+
+[Atlas](https://github.com/ibodullosafarovv/atlas) &nbsp;·&nbsp; [Personal API](https://github.com/ibodullosafarovv/self-personal-api) &nbsp;·&nbsp; Software engineering research
 
 ### About
 
-I'm interested in the intersection of **product design**, **software engineering**, and **the small details that make tools feel effortless**.
+I care about the intersection of product design, system reliability, and the details that make software feel effortless.
 
-Currently working on Control and Spazio, while researching how software systems can be made more dependable.
-
-### Technologies
-
-`Swift` · `SwiftUI` · `TypeScript` · `React` · `Electron` · `Python` · `Git`
-
-<br />
+**Working with:** Swift, SwiftUI, TypeScript, React, Electron, Python, Git.
 
 ---
 
-<div align="center">
-
-<sub>Less friction. More intention.</sub>
-
-</div>
+<div align="center"><sub>Less friction. More intention.</sub></div>
