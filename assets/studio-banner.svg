@@ -1,13 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600" role="img" aria-labelledby="title desc">
 <title id="title">Ibodullo Safarov — Software, thoughtfully built.</title>
-<desc id="desc">Minimal dark developer studio banner with refined typography, subtle blue accent and fine grid.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111318"/><stop offset="1" stop-color="#1B2029"/></linearGradient><radialGradient id="glow"><stop stop-color="#4B77C7" stop-opacity=".19"/><stop offset="1" stop-color="#4B77C7" stop-opacity="0"/></radialGradient></defs>
-<rect width="1200" height="360" fill="url(#bg)"/><circle cx="1040" cy="70" r="310" fill="url(#glow)"/>
-<g stroke="#FFFFFF" stroke-opacity=".055"><path d="M60 0V360M300 0V360M600 0V360M900 0V360M1140 0V360M0 58H1200M0 300H1200"/></g>
-<circle cx="76" cy="82" r="4" fill="#87AFFF"/>
-<text x="94" y="87" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="15" letter-spacing="2" fill="#A8AFBA">IBODULLO SAFAROV <tspan fill="#606976">/</tspan> INDEPENDENT DEVELOPER</text>
-<text x="72" y="179" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="62" font-weight="600" letter-spacing="-2.6" fill="#F5F5F7">Software, thoughtfully built.</text>
-<text x="76" y="224" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="20" fill="#A8AFBA">Focused experiences for macOS and the web.</text>
-<text x="76" y="329" font-family="-apple-system,BlinkMacSystemFont,Arial,sans-serif" font-size="13" letter-spacing="2" fill="#929AA7">SWIFTUI  /  TYPESCRIPT  /  REACT</text>
-<g transform="translate(1082 302)" stroke="#8DA8D6" stroke-width="1.8" fill="none"><path d="M0 22L22 0M8 0H22V14"/></g>
+<desc id="desc">Dark minimalist developer portfolio hero inspired by editorial typography and cinematic violet atmosphere.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171125"/><stop offset="0.46" stop-color="#0E0C15"/><stop offset="1" stop-color="#09090D"/></linearGradient>
+<linearGradient id="type" x1="0" y1="0" x2="0.95" y2="1"><stop stop-color="#FCFAFF"/><stop offset="0.55" stop-color="#E6E2EC"/><stop offset="1" stop-color="#A9A4B2"/></linearGradient>
+<linearGradient id="cta" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#A567FF"/><stop offset="1" stop-color="#743CE4"/></linearGradient>
+<radialGradient id="aura" cx="45%" cy="35%" r="65%"><stop stop-color="#6E39CA" stop-opacity=".24"/><stop offset="1" stop-color="#6E39CA" stop-opacity="0"/></radialGradient>
+<clipPath id="round"><rect width="1200" height="600" rx="28"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+<rect width="1200" height="600" fill="url(#bg)"/>
+<ellipse cx="500" cy="200" rx="850" ry="520" fill="url(#aura)"/>
+<g fill="none" stroke="#6132AA" stroke-width="4" opacity=".17">
+<path d="M -150 390 L 850 -160"/>
+<path d="M -80 520 L 1000 -80"/>
+<path d="M 680 -200 L 1070 660"/>
+<path d="M 970 -200 L 1370 640"/>
+<path d="M -100 610 L 1300 -165"/>
+</g>
+<g fill="none" stroke="#A06BF9" stroke-width="2" opacity=".12"><path d="M -50 360 Q -50 330 -15 308 L 690 -78"/><path d="M 1120 -80 Q 1080 -60 1110 -5 L 1350 480"/></g>
+<text x="58" y="64" fill="#F7F3FF" font-family="Georgia,'Times New Roman',serif" font-size="27" letter-spacing="-.8">Ibodullo.</text>
+<text x="1140" y="61" text-anchor="end" fill="#A29BAE" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2.2">MACOS  /  WEB  /  RESEARCH</text>
+<rect x="472" y="133" width="256" height="29" rx="14.5" fill="#FFFFFF" fill-opacity=".055" stroke="#FFFFFF" stroke-opacity=".085"/>
+<circle cx="493" cy="147.5" r="3" fill="#A77AFF"/>
+<text x="510" y="152" fill="#D0C9DA" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.1">INDEPENDENT DEVELOPER</text>
+<text x="600" y="281" text-anchor="middle" fill="url(#type)" font-family="Georgia,'Times New Roman',serif" font-size="110" letter-spacing="-4.3">Software,</text>
+<text x="600" y="387" text-anchor="middle" fill="url(#type)" font-family="Georgia,'Times New Roman',serif" font-size="108" letter-spacing="-4.4">thoughtfully built.</text>
+<text x="600" y="432" text-anchor="middle" fill="#ABA5B3" font-family="Arial,Helvetica,sans-serif" font-size="18">I design and build focused experiences for macOS and the web.</text>
+<rect x="490" y="469" width="220" height="49" rx="24.5" fill="url(#cta)"/>
+<text x="596" y="499" text-anchor="middle" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-weight="600" font-size="16">Explore projects</text>
+<path d="M 665 489 L 673 497 L 665 505 M 673 497 H 660" fill="none" stroke="white" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="60" y="566" font-family="Arial,Helvetica,sans-serif" letter-spacing="2" font-size="11" fill="#706979">DESIGN  ×  ENGINEERING</text>
+<text x="1140" y="566" text-anchor="end" font-family="Arial,Helvetica,sans-serif" letter-spacing="2" font-size="11" fill="#706979">2026  /  PORTFOLIO</text>
+</g>
 </svg>
