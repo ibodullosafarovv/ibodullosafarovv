@@ -16,6 +16,8 @@ Building simple, thoughtful software for everyday life.
 
 <h2><a href="https://github.com/ibodullosafarovv/Control">Control ↗</a></h2>
 
+<a href="https://github.com/ibodullosafarovv/Control"><img src="assets/control-showcase.svg" width="100%" alt="Control illustrative interface preview" /></a>
+
 Focus. Planning. Deep work.
 
 <sub>MACOS · IN DEVELOPMENT</sub>
