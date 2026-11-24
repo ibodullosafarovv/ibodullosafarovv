@@ -1,36 +1,59 @@
-# Ibodullo Safarov
-
-**Independent developer · macOS & web**
-
-I build software for everyday life, with an emphasis on simplicity, thoughtful interfaces, and reliable systems.
+<div align="center">
 
 <br>
 
-## Selected work
+<h1>Ibodullo Safarov</h1>
 
-| Project | Description | Status |
-| :--- | :--- | :--- |
-| **[Control ↗](https://github.com/ibodullosafarovv/Control)** | Focus, planning, and deep work for macOS. | In development |
-| **Spazio** | A native workspace for projects, notes, and everyday life. | In development |
+<h2>Software, thoughtfully built.</h2>
 
-<br>
+**Independent developer · macOS & Web**
 
-## Explorations
-
-**Product design** · Human-computer interaction  
-**Engineering** · Software reliability and architecture  
-**Side projects** · Atlas and Personal API
+Building simple, thoughtful software for everyday life.
 
 <br>
 
-## Toolkit
+<h1>Selected work</h1>
 
-`Swift` · `SwiftUI` · `TypeScript` · `React` · `Electron` · `Python` · `Git`
+<h2><a href="https://github.com/ibodullosafarovv/Control">Control ↗</a></h2>
+
+Focus. Planning. Deep work.
+
+<sub>MACOS · IN DEVELOPMENT</sub>
+
+<br>
+
+<h2>Spazio</h2>
+
+A native workspace for projects, notes, and everyday life.
+
+<sub>SWIFTUI · IN DEVELOPMENT</sub>
+
+<br>
+
+<h1>Explorations</h1>
+
+### Product design · Software engineering
+
+Human-computer interaction · System reliability
+
+Atlas · Personal API
+
+<br>
+
+<h1>Toolkit</h1>
+
+### Swift · SwiftUI · TypeScript · React
+
+### Electron · Python · Git
 
 <br>
 
 ---
 
-*Less friction. More intention.*
+### Less friction. More intention.
 
-<sub>[Repositories ↗](https://github.com/ibodullosafarovv?tab=repositories) &nbsp; / &nbsp; [Activity ↗](https://github.com/ibodullosafarovv?tab=overview)</sub>
+[Repositories ↗](https://github.com/ibodullosafarovv?tab=repositories) &nbsp; · &nbsp; [Activity ↗](https://github.com/ibodullosafarovv?tab=overview)
+
+<br>
+
+</div>
