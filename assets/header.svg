@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="210" viewBox="0 0 900 210" role="img" aria-label="ibodullo. Building software with intention.">
+<rect width="900" height="210" rx="12" fill="#111317"/>
+<path d="M690 0V210 M730 0V210 M770 0V210 M810 0V210 M850 0V210 M890 0V210 M650 40H900 M650 80H900 M650 120H900 M650 160H900 M650 200H900" stroke="#24272d" fill="none"/>
+<circle cx="810" cy="105" r="64" stroke="#454b55" fill="none"/>
+<circle cx="810" cy="105" r="40" stroke="#454b55" fill="none"/>
+<path d="M810 29V181 M734 105H886" stroke="#454b55" fill="none"/>
+<circle cx="810" cy="105" r="4" fill="#b7c8a5"/>
+<text x="36" y="42" font-family="monospace" font-size="12" letter-spacing="3" fill="#a3a9b3">INDEPENDENT DEVELOPER / PERSONAL INDEX</text>
+<text x="32" y="125" font-family="Georgia, 'Times New Roman', serif" font-size="78" letter-spacing="-4" fill="#f1eee7">ibodullo<tspan fill="#b7c8a5">.</tspan></text>
+<text x="36" y="166" font-family="monospace" font-size="16" fill="#b9bec7">Building software with intention.</text>
+</svg>
